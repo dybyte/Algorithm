@@ -3,18 +3,16 @@ import java.util.*;
 
 public class Main {
     public int solution(int[][] arr) {
+        int answer = 0;
         boolean[][] board = new boolean[101][101];
         for (int i = 0; i < arr.length; i++) {
             for (int x = arr[i][0]; x < arr[i][0] + 10; x++) {
                 for (int y = arr[i][1]; y < arr[i][1] + 10; y++) {
-                    board[x][y] = true;
+                    if (!board[x][y]) {
+                        board[x][y] = true;
+                        answer++;
+                    }
                 }
-            }
-        }
-        int answer = 0;
-        for (int i = 0; i < board.length; i++) {
-            for (int j = 0; j < board[i].length; j++) {
-                if (board[i][j]) answer++;
             }
         }
         return answer;
