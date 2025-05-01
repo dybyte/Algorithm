@@ -3,15 +3,13 @@ import java.util.*;
 
 public class Main {
     public StringBuilder solution(int[] arr, int[][] sum) {
-        int[] history = new int[arr.length];
-        history[0] = arr[0];
-        for (int i = 1; i < arr.length; i++) {
-            history[i] += history[i - 1] + arr[i];
+        int[] history = new int[arr.length + 1];
+        for (int i = 1; i < history.length; i++) {
+            history[i] = history[i - 1] + arr[i - 1];
         }
         StringBuilder sb = new StringBuilder("");
         for (int i = 0; i < sum.length; i++) {
-            int first = sum[i][0] == 1 ? 0 : history[sum[i][0] - 2];
-            sb.append(history[sum[i][1] - 1] - first).append("\n");
+            sb.append(history[sum[i][1]] - history[sum[i][0] - 1]).append("\n");
         }
         return sb;
     }
