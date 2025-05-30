@@ -4,20 +4,19 @@ import java.util.*;
 public class Main {
     public static StringBuilder solution(int m, int n) {
         StringBuilder sb = new StringBuilder("");
-        List<Integer> list = new ArrayList<>();
+        boolean[] decimal = new boolean[n + 1];
         for (int i = 2; i <= n; i++) {
-            boolean isDecimal = true;
-            for (int tmp : list) {
-                if (tmp * tmp > i) break;
-                if (i % tmp == 0) {
-                    isDecimal = false;
+            decimal[i] = true;
+            for (int j = 2; j < decimal.length; j++) {
+                if (j * j > i) break;
+                if (decimal[j] && i % j == 0) {
+                    decimal[i] = false;
                     break;
                 }
             }
-            if (isDecimal) list.add(i);
         }
-        for (int tmp : list) {
-            if (tmp >= m) sb.append(tmp).append("\n");
+        for (int i = m; i <= n; i++) {
+            if (decimal[i]) sb.append(i).append("\n");
         }
         return sb;
     }
