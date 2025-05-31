@@ -6,7 +6,7 @@ public class Main {
         StringBuilder sb = new StringBuilder("");
         int answer1 = a * d + b * c;
         int answer2 = b * d;
-        for (int i = Math.max(answer1, answer2); i >= 2; i--) {
+        for (int i = Math.min(answer1, answer2); i >= 2; i--) {
             if (answer1 % i == 0 && answer2 % i == 0) {
                 answer1 /= i;
                 answer2 /= i;
