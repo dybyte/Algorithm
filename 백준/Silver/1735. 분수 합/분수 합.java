@@ -6,16 +6,14 @@ public class Main {
         StringBuilder sb = new StringBuilder("");
         int answer1 = a * d + b * c;
         int answer2 = b * d;
-        for (int i = Math.min(answer1, answer2); i >= 2; i--) {
-            if (answer1 % i == 0 && answer2 % i == 0) {
-                answer1 /= i;
-                answer2 /= i;
-                break;
-            }
-        }
-        return sb.append(answer1).append(" ").append(answer2);
+        int gcd = gcd(answer1, answer2);
+        return sb.append(answer1/gcd).append(" ").append(answer2/gcd);
     }
 
+    static int gcd(int a, int b) {
+        if (b == 0) return a;
+        return gcd(b, a % b);
+    }
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
