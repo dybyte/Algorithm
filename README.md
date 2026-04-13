@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -43,4 +44,20 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
