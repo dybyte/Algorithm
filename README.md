@@ -8,6 +8,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
@@ -20,6 +21,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +50,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -60,6 +63,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -78,4 +82,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0177-nth-highest-salary/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
