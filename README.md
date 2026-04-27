@@ -88,4 +88,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
