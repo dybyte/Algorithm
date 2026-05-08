@@ -53,11 +53,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,8 +123,10 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
