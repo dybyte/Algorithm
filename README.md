@@ -7,6 +7,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
@@ -103,6 +104,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0042-trapping-rain-water](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -129,4 +132,12 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
