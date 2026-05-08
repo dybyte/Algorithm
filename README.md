@@ -109,6 +109,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1115-print-foobar-alternately](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/1115-print-foobar-alternately/) | Medium |
+| [1226-the-dining-philosophers](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/1226-the-dining-philosophers/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
