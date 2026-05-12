@@ -92,6 +92,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1934-confirmation-rate](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/1934-confirmation-rate/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
