@@ -13,6 +13,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0851-loud-and-rich](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0851-loud-and-rich/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [0851-loud-and-rich](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0851-loud-and-rich/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,11 +133,13 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [0851-loud-and-rich](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0851-loud-and-rich/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [0851-loud-and-rich](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0851-loud-and-rich/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
