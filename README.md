@@ -9,6 +9,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
@@ -32,6 +33,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -123,6 +125,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
