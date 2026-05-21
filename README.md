@@ -10,6 +10,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0042-trapping-rain-water](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
@@ -72,6 +73,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 ## Binary Search
@@ -153,4 +155,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
