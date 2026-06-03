@@ -26,6 +26,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0006-zigzag-conversion/) | Medium |
 | [0049-group-anagrams](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
