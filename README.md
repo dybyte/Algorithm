@@ -105,6 +105,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0584-find-customer-referee](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
 | [0626-exchange-seats](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0626-exchange-seats/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/1174-immediate-food-delivery-ii/) | Medium |
+| [1193-monthly-transactions-i](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/1193-monthly-transactions-i/) | Medium |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1934-confirmation-rate](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/1934-confirmation-rate/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/3475-dna-pattern-recognition/) | Medium |
