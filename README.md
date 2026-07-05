@@ -12,6 +12,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0053-maximum-subarray](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0054-spiral-matrix/) | Medium |
 | [0079-word-search](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0088-merge-sorted-array](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0200-number-of-islands](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
@@ -36,6 +37,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0088-merge-sorted-array](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -127,6 +129,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 ## Concurrency
 | Problem Name | Difficulty |
 | ------- | ------- |
