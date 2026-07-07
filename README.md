@@ -124,6 +124,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0146-lru-cache](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -188,5 +189,6 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0203-remove-linked-list-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
