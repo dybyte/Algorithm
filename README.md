@@ -144,6 +144,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
