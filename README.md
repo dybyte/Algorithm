@@ -110,6 +110,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
+| [0585-investments-in-2016](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0585-investments-in-2016/) | Medium |
 | [0595-big-countries](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0626-exchange-seats](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0626-exchange-seats/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/1174-immediate-food-delivery-ii/) | Medium |
