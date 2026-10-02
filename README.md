@@ -183,6 +183,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +196,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
+| [0155-min-stack](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
