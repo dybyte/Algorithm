@@ -137,6 +137,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0146-lru-cache](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0707-design-linked-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0707-design-linked-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
