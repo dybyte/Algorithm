@@ -18,6 +18,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0209-minimum-size-subarray-sum](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0209-minimum-size-subarray-sum/) | Medium |
 | [0213-house-robber-ii](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0494-target-sum](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 | [0851-loud-and-rich](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0851-loud-and-rich/) | Medium |
 ## Hash Table
@@ -26,6 +27,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0049-group-anagrams](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0146-lru-cache](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0438-find-all-anagrams-in-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -154,6 +156,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +201,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0707-design-linked-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -218,4 +222,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0337-house-robber-iii/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
