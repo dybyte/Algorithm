@@ -20,6 +20,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0347-top-k-frequent-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0494-target-sum](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [0641-design-circular-deque](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 | [0851-loud-and-rich](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0851-loud-and-rich/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0146-lru-cache](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0206-reverse-linked-list/) | Easy |
+| [0641-design-circular-deque](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 | [0707-design-linked-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -202,6 +204,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0146-lru-cache](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [0641-design-circular-deque](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 | [0707-design-linked-list](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0707-design-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -226,4 +229,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0641-design-circular-deque](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 <!---LeetCode Topics End-->
