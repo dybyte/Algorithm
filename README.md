@@ -24,6 +24,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0622-design-circular-queue](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0641-design-circular-deque/) | Medium |
 | [0851-loud-and-rich](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0851-loud-and-rich/) | Medium |
+| [0877-stone-game](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0070-climbing-stairs](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0172-factorial-trailing-zeroes/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
+| [0877-stone-game](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0213-house-robber-ii](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0337-house-robber-iii](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0337-house-robber-iii/) | Medium |
 | [0494-target-sum](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [0877-stone-game](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -243,4 +246,16 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/dybyte/Algorithm/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
